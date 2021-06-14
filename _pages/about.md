@@ -7,6 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Economist - [Universidad de San Andrés]
-Master in Economics  - [Universidad de San Andrés]
+MA in Economics Candidate at [Universidad de San Andrés]
 

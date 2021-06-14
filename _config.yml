@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rosario Podestá"
 title_separator          : "-"
 name                     : &name "Rosario Podestá"
-description              : &description "Economist - Student"
+description              : &description "Economist"
 url                      : https://rosariopodesta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rosariopodesta/rosariopodesta.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rosario"
   avatar           : "cv.jpg"
-  bio              : "Student"
+  bio              : "Economist"
   location         : "Buenos Aires, Argentina"
   employer         :
   pubmed           : 
